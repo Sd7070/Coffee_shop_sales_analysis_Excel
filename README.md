@@ -1,5 +1,7 @@
 # Coffee Shop Sales Analysis Dashboard
 
+![Dashboard Screenshot](Screenshot%202024-02-15%20143928.png)
+
 This repository contains an Excel-based analysis and interactive dashboard for a coffee shop's sales operations. It provides clear insights into the transaction patterns, product performance, and store-level metrics.
 
 ## Project Overview
