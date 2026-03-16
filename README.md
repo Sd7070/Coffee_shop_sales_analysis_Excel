@@ -1,4 +1,4 @@
-# Coffee Shop Sales Analysis Dashboard
+# Coffee Shop Sales Analysis Dashboard ☕
 
 ![Dashboard Screenshot](Screenshot%202024-02-15%20143928.png)
 
